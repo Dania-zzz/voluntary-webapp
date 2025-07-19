@@ -31,7 +31,7 @@ This web app is designed to serve three distinct types of users, each with uniqu
 
 ### Screenshots
 This is how the web app look integrated with front-end
-• Login (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp1.png)
-• View opportunities (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp2.png)
-• View opportunity details (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp3.png)
-• Edit opportunity post (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp4.png)
+• Login (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp1.png)<br>
+• View opportunities (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp2.png)<br>
+• View opportunity details (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp3.png)<br>
+• Edit opportunity post (https://github.com/Dania-zzz/voluntary-webapp/blob/main/temp4.png)<br>
